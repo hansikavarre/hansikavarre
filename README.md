@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hansika Varre</h1>
-<h3 align="center">B.Tech Computer science Student | Frontend Developer | ML Enthusiast</h3>
+<h3 align="center">B.Tech Computer Science Student | Frontend Developer | ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Frontend+Developer;ML+Enthusiast;Open+to+Internships!
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Frontend+Developer;ML+Enthusiast;Open+to+Internships!" alt="Typing SVG" />
 </p>
 
 ---
