@@ -8,7 +8,7 @@
 ---
 
 ## 👩‍💻 About Me
-- 🎓 3rd Year B.Tech Computer Science (AI & DS) at **Ramachandra College of Engineering, Eluru**
+- 🎓 3rd Year B.Tech Computer Science at **Ramachandra College of Engineering, Eluru**
 - 📊 CGPA: **8.93**
 - 🌱 Currently learning **Machine Learning, NLP, and Cloud Technologies**
 - 💼 Actively seeking **internships and early career opportunities**
