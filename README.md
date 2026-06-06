@@ -54,13 +54,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hansikavarre&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hansikavarre&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hansikavarre&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hansikavarre&theme=radical" alt="GitHub Streak" />
 </p>
-
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hansika-varre-b64453324/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hansikavarre25@gmail.com)
