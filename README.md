@@ -48,10 +48,10 @@
 - ✅ Artificial Intelligence
 - ✅ Data Science
 - ✅ Agile Scrum
+- ✅ Basics of C Programming
+- ✅ Full Stack Java
 
 ---
-
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
@@ -62,6 +62,7 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hansikavarre&theme=radical" alt="Top Languages" />
 </p>
+
 ---
 
 ## 📫 Connect With Me
