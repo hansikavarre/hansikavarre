@@ -57,9 +57,15 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hansikavarre&theme=radical" alt="GitHub Stats" />
 </p>
 
+<## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hansikavarre&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hansikavarre&theme=radical" alt="GitHub Stats" />
 </p>
+
+---
+
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hansika-varre-b64453324/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hansika-varre-b64453324)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hansikavarre25@gmail.com)
