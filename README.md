@@ -57,7 +57,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hansikavarre&theme=radical" alt="GitHub Stats" />
 </p>
 
-<## 📊 GitHub Stats
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hansikavarre&theme=radical" alt="GitHub Stats" />
