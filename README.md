@@ -9,7 +9,7 @@
 
 ## 👩‍💻 About Me
 - 🎓 3rd Year B.Tech Computer Science at **Ramachandra College of Engineering, Eluru**
-- 📊 CGPA: **8.93**
+- 📊 CGPA: **9.06**
 - 🌱 Currently learning **Machine Learning, NLP, and Cloud Technologies**
 - 💼 Actively seeking **internships and early career opportunities**
 - 🏆 National level 24-hour Hackathon Winner
