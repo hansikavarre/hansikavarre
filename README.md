@@ -39,7 +39,7 @@
 | 🏥 [Triaging-Agent](https://github.com/hansikavarre/Triaging-Agent) | Prioritizes tasks based on urgency and importance | Python, HTML, CSS, JS |
 | 🔗 [Supply-Chain-Management](https://github.com/hansikavarre/Supply-Chain-Management) | Tracks and optimizes supply chain operations | Python, HTML, CSS, JS |
 | ⛑️ IntelliGuard Helmet | IoT smart helmet for worker safety monitoring | ESP32, MQ Sensor, GPS, ThingsBoard |
-| 🎓 UNIVISION AI | Self-healing university monitoring system | Kubernetes, LangChain, Prometheus |
+| 🎓 [UNIVISION-AI](https://github.com/hansikavarre/UNIVISION-AI) | Self-healing university monitoring system | Kubernetes, LangChain, Prometheus |
 
 ---
 
